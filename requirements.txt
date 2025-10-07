@@ -1,0 +1,14 @@
+# === Base scientifique ===
+numpy>=1.26
+scipy>=1.11
+pandas>=2.2
+matplotlib>=3.8
+
+# === Web App ===
+streamlit>=1.37.0
+
+# === Deep Learning ===
+torch>=2.1.0
+
+# === Divers ===
+scikit-learn>=1.5

@@ -1,0 +1,12 @@
+# Environnements virtuels et caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Poids lourds optionnels
+*.zip
+*.pkl
+
+# Fichiers sensibles ou temporaires
+.DS_Store
