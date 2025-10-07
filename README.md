@@ -12,9 +12,7 @@ Cependant, dans des données réalistes de vibration, les lignes de base peuvent
 
 Ce projet construit un **jeu de données synthétique** de signaux de la forme :
 
-$
-s(t) = x(t) + b(t) + \varepsilon(t)
-$
+$s(t) = x(t) + b(t) + \varepsilon(t)$
 
 où :
 
@@ -75,7 +73,7 @@ Ci-dessous, des exemples représentatifs comparant les méthodes de suppression 
 | ![easy](results/example_1_Signal_facile.png) | ![mid](results/example_0_Signal_moyen.png) | ![hard](results/example_10_Signal_difficile.png) |
 
 ## Arborescence des dossiers
-
+```bash
 resunet-baseline-app/
 │
 ├── app.py                         # Application Streamlit principale
