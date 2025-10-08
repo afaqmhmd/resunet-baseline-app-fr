@@ -5,6 +5,14 @@ L’objectif est d’entraîner un modèle **ResUNet-1D** capable de supprimer d
 
 ---
 
+L'application Streamlit est accessible ici (en anglais) : https://resunet-baseline-removal.streamlit.app/
+
+---
+
+Si j'ai commis dans ce projet une quelconque erreur ou si vous avez des conseils pour moi n'hésitez pas à me contacter ici : afaqmhmd@gmail.com
+
+---
+
 ## Aperçu
 
 Les méthodes classiques d’estimation de ligne de base (p. ex., **Savitzky–Golay**, **moindres carrés asymétriques — AsLS**) supposent des tendances simples et lisses (linéaires ou polynomiales).
